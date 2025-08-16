@@ -1,5 +1,5 @@
 # Rootedjailbreak
-This Repository Provides One of Best Jailbreak For Any Ai. The code Is Down👇
+This Repository Provides One of Best Jailbreak For ChatGpt. The code Is Down👇
 
 
 
